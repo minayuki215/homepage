@@ -1,0 +1,3 @@
+<p class="lead mt-3 jum-sen">２０２０年９月２６日＆２７日</p>
+      <p class="lead mt-3 jum-sen">９月２６日　開催地未定</p>
+      <p class="lead  jum-sen">９月２７日　滋賀県大津市</p>

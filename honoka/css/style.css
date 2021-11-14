@@ -1,0 +1,95 @@
+.jumbotron-height {
+    position: relative;
+    height: 100vh;
+    min-height: 300px;
+    background: url(./jpg/top.JPG) no-repeat center center;
+    background-size: cover;
+    margin-bottom: 0px;
+    position: relative;
+
+}
+.jum-title {
+    margin-bottom: 40px;
+    font-family: 'Playfair Display', serif;
+    color: white;
+    text-align: center;
+}
+.jum-sen{
+    font-family: 'Avenir', serif;
+    color: white;
+    text-align: center;
+}
+.jum-container{
+    position: relative;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+.btn{
+   display: inline-block;
+  width: 270px;
+  height: 100px;
+  background:#CC9999;
+  font-family: 'Avenir', serif;
+}
+
+.btn-text{
+    text-align: center;
+  
+  
+} 
+.btn p{
+    line-height: 90px;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    color: black;
+    font-size: large;
+}
+
+
+
+   
+.jumbotron-height::before{
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: rgba(0,0,0,0.3);
+    }
+.page-footer {
+    color: white;
+    
+    }
+.footer-Text  li  a{
+    color:white;
+}
+.footer-copyright a{
+    color:white;
+}
+body{
+    padding-top: 75px;
+    
+}
+.main{
+    padding-bottom: 0px;
+}
+.tag1{
+     border:solid #CC9999 ;
+    border-width:4px 0 4px 0;
+}
+.tag2{
+    border:solid #deb887;
+    border-width:2px 0 2px 0;
+    display:inline-block;
+}
+.color1{
+    background-color: white;
+}
+a[download]{
+    padding: 7px 30px 7px 0;
+	background: url(./jpg/icon_1r_192.png) right center/30px auto no-repeat;
+}
+/*download タグ内でのアイコンの表示*/
+
